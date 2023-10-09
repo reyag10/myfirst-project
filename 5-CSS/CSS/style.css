@@ -1,0 +1,132 @@
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    background-color: yellow;
+    color: black;
+    padding: 12px;
+}
+
+img {
+    height: 360px;
+    width: 470px;
+    padding: 8px;
+}
+
+.Dhaka {
+    height: 360px;
+    width: 470px;
+    padding: 7px;
+}
+
+.Nature {
+    height: 360px;
+    width: 470px;
+    padding: 7px;
+}
+
+.box {
+    background-color: darkred;
+}
+
+.Barishal {
+
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+.box-1 {
+    background-color: mediumspringgreen;
+}
+
+.Chi {
+    background-color: navy;
+    color: white;
+}
+
+.Chittagong {
+    color: black;
+    padding: 8px;
+    text-align: center;
+}
+
+.Dhaka-1 {
+    background-color: blue;
+    color: yellow;
+    padding: 8px;
+    text-align: center;
+}
+
+.Dha {
+    background-color: crimson;
+    color: black;
+}
+
+.KH {
+    background-color: yellow;
+    color: black;
+    padding: 8px;
+    text-align: center;
+}
+
+.KH-1 {
+    background-color: darkviolet;
+    color: black;
+    padding: 10px;
+}
+
+.MY-1 {
+    background-color: green;
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+.MY-2 {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.RJ-1 {
+    background-color: darkcyan;
+    color: chartreuse;
+    padding: 8px;
+    text-align: center;
+}
+
+.RJ-2 {
+    background-color: gold;
+    color: darkred;
+    padding: 10px;
+}
+
+.RP-1 {
+    background-color: aqua;
+    color: black;
+    padding: 8px;
+    text-align: center;
+}
+
+.RP-2 {
+    background-color: yellow;
+    color: black;
+    padding: 10px
+}
+
+.SY-1 {
+    background-color: tomato;
+    color: blue;
+    padding: 8px;
+    text-align: center;
+}
+
+.SY-2 {
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+}

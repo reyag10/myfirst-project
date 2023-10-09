@@ -1,0 +1,12 @@
+.box1{
+    background-color: firebrick;
+    height: 870px;
+    width:auto;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dhaka_April_%2833274941853%29.jpg/1280px-Dhaka_April_%2833274941853%29.jpg);
+    background-repeat: no-repeat;
+}
+.box2{
+    background-color:forestgreen;
+    height: 250px;
+    width: 100%;
+}
