@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+} 
+h1{
+    background-color: darkorange;
+    display: inline;
+}
+a{
+    background-color: hotpink;
+    color: black;
+    text-decoration: none;
+}
+.box{
+    height: 20px;
+    background-color: yellow;
+}
+img{
+    width: 450px;
+    display: block;
+    
+}
+span{
+    background-color: blue;
+    margin: 20px;
+    display: inline-block;
+}
